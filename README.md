@@ -6,7 +6,7 @@
 <li>Each of the digits 1-9 must occur exactly once in each column.<br></li>
 <li>Each of the digits 1-9 must occur exactly once in each of the 3x3 sub-boxes of the grid.<br></li>
 </list>
-  
+ <br><br><br>
 <p>SUDOKU ALGORITHM:<br></p>
 <p>1.Find some empty space <br></p>
 <p>2.Attempt to place the digits 1-9 in that space<br></p>
