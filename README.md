@@ -1,5 +1,11 @@
 # SUDOKO---CPP-BACKTRACKING
 
+<b>A sudoku solution must satisfy all of the following rules:</b><br>
+
+Each of the digits 1-9 must occur exactly once in each row.<br>
+Each of the digits 1-9 must occur exactly once in each column.<br>
+Each of the digits 1-9 must occur exactly once in each of the 3x3 sub-boxes of the grid.<br>
+
 <p>SUDOKU ALGORITHM:<br></p>
 <p>1.Find some empty space <br></p>
 <p>2.Attempt to place the digits 1-9 in that space<br></p>
