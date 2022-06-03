@@ -1,7 +1,7 @@
 # SUDOKO---CPP-BACKTRACKING
 
 SUDOKU ALGORITHM:
-1.Find some empty space
+1.Find some empty space <br>
 2.Attempt to place the digits 1-9 in that space
 3.Check if that digit is valid in the current spot based on the current board
 	a. If the digit is valid, recursively attempt to fill the board using steps 1-3.
